@@ -1,6 +1,6 @@
 # hello-world
-Just another human being
-Coś dziwnego się tu dzieje
-Fajne rzeczy
-Nie, zaraz.
+Just another human being\n
+Coś dziwnego się tu dzieje\n
+Fajne rzeczy\n
+Nie, zaraz.\n
 Żartowałem ;)
